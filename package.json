@@ -1,0 +1,17 @@
+{
+  "name": "compression",
+  "version": "1.0.0",
+  "description": "in this we have compress file and image into zip file with the help of adm-zip library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.16",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
